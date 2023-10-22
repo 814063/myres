@@ -2,19 +2,23 @@
   "WallpaperCategory": [
     {
       "Title": "Winter Wallpapers",
-      "Link": "Hello"
+      "Link": "Hello",
+      "Background": "Hello"
     },
     {
       "Title": "SunSet Wallpaper",
-      "Link": "Hello"
+      "Link": "Hello",
+      "Background": "Hello"
     },
     {
       "Title": "Flower Wallpaper",
-      "Link": "Hello"
+      "Link": "Hello",
+      "Background": "Hello"
     },
     {
       "Title": "Galaxy Wallpaper",
-      "Link": "Hello"
+      "Link": "Hello",
+      "Background": "Hello"
     }
   ]
 }
