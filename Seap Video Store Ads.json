@@ -3,7 +3,7 @@
   "Version": "3.1",
   "InterAdOnOff":"off",
   "InterBackAdOnOff":"off",
-  "NativeAdOnOff":"off",
+  "NativeAdOnOff":"on",
   "InterCount": 4,
   "NativeCount": 1,
   "InterBack": 0,
